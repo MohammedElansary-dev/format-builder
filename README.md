@@ -4,6 +4,8 @@
 
 Stop memorizing obscure syntax like `_(* #,##0.00_);_(* (#,##0.00);_(* "-"??_);_(@_)`. The **Format Builder** provides a modern UI to visually construct complex Excel formats for Financials, Dates, Durations, and KPI Dashboards, generating the code instantly.
 
+you can open the website form this link: https://mohammedelansary-dev.github.io/format-builder/
+
 ---
 
 ## ✨ Features
