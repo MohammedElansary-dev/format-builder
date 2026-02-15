@@ -1,0 +1,22 @@
+{
+  "short_name": "Format Builder",
+  "name": "Excel Format Builder",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/format-builder/",
+  "background_color": "#f3f4f6",
+  "display": "standalone",
+  "scope": "/format-builder/",
+  "theme_color": "#4f46e5",
+  "description": "Visually build Excel custom number formats."
+}
